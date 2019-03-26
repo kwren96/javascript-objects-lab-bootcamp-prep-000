@@ -1,1 +1,1 @@
-var recipies = {key
+var recipies = {key:'value'}
