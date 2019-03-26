@@ -1,1 +1,1 @@
-var objects = {recipes:'value'}
+function objects {return var = recipes}
