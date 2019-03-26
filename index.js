@@ -1,1 +1,1 @@
-var recipies = {key:'value'}
+var objects = {recipes:'value'}
